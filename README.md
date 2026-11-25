@@ -21,6 +21,5 @@ Bu çalışmada ele alınan temel kavramlar ve örnek soru tipleri şunlardır:
 ## Hazırlayan ve Kurum Bilgisi
 
 * **Hazırlayan:** Enis ÖNGENÇ
-*  
 * **Bölüm / Kurum:** Yazılım Mühendisliği — İstiklal Bilim ve Teknoloji Üniversitesi
 
